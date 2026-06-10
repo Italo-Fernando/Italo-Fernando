@@ -40,33 +40,23 @@ em busca de **estágio / primeira vaga** pra apontar essas armas pra problemas r
 <!-- ===================== SKILLS ===================== -->
 ## Skills
 
-<div align="center">
+> *"Se você vai forjar uma lâmina, forje-a sem arrependimentos."* — Saber
 
 **Linguagens**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<img src="https://skillicons.dev/icons?i=py,c,cpp,java&theme=dark" alt="Linguagens" />
 
 **Back-end**
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<img src="https://skillicons.dev/icons?i=spring,fastapi&theme=dark" alt="Back-end" />
 
 **Dados**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Dados" />
 
 **DevOps & Ferramentas**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark" alt="DevOps & Ferramentas" />
 
 ---
 
@@ -132,10 +122,6 @@ com alta probabilidade de introduzir defeitos. Projeto de Reconhecimento de Padr
   </tr>
 </table>
 
-<div align="center">
-<sub>🎮 Easter egg: já forjei até um <a href="https://github.com/Italo-Fernando/ESC_projeto">Tetris em Assembly</a> — porque toda lenda começa com aço bruto.</sub>
-</div>
-
 ---
 
 <!-- ===================== STATS ===================== -->
@@ -148,22 +134,10 @@ com alta probabilidade de introduzir defeitos. Projeto de Reconhecimento de Padr
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Italo-Fernando&hide_border=true&background=0d1117&ring=C5A028&fire=8B0000&currStreakLabel=C5A028&sideLabels=ffffff&dates=8b949e&stroke=C5A028" alt="streak"/>
-
-</div>
-
 ---
 
 <!-- ===================== GIF / FOOTER ===================== -->
 <div align="center">
-
-<!-- TODO Italo: coloque um GIF do Fate em assets/fate.gif (ex: Saber + Excalibur
-     ou o Unlimited Blade Works do Archer) e descomente a linha abaixo: -->
-<!-- <img src="assets/fate.gif" width="480" alt="Fate gif"/> -->
-
-> ✦ ✦ ✦
->
-> *"Eu sou aquele que forja a própria lâmina.  Aço é meu corpo, e fogo é meu sangue."*
 
 <img src="./assets/footer.svg" width="100%" alt="Steel is my body, and fire is my blood"/>
 
