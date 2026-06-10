@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 80" width="900" height="80">
+  <!-- ============================================================
+       Footer: cântico final do Archer. Mesma paleta do header.
+       ============================================================ -->
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"  stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#1a0606"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="80" fill="url(#fade)"/>
+
+  <text x="450" y="48"
+    font-family="'Cinzel', Georgia, serif" font-size="16"
+    letter-spacing="0.14em" fill="#C5A028" text-anchor="middle">
+    Steel is my body, and fire is my blood.
+  </text>
+</svg>
