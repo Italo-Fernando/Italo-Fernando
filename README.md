@@ -17,9 +17,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=C5A028" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="mailto:italofsantos2003@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=C5A028" alt="Email"/>
-</a>
 </div>
 
 ---
@@ -28,15 +25,12 @@
 ## About
 
 Sou estudante de TI na **UFRPE**, me especializando em **back-end e dados**. Cada
-projeto aqui é uma lâmina forjada — um estudo que virou código de verdade. Estou
-em busca de **estágio / primeira vaga** pra apontar essas armas pra problemas reais.
+projeto aqui é  um estudo que virou código de verdade.
 
 ---
 
 <!-- ===================== SKILLS ===================== -->
 ## Skills
-
-> *"Se você vai forjar uma lâmina, forje-a sem arrependimentos."* — Saber
 
 **Back-end**
 
@@ -53,7 +47,7 @@ em busca de **estágio / primeira vaga** pra apontar essas armas pra problemas r
 ---
 
 <!-- ===================== PROJETOS ===================== -->
-## 🏆 Lâminas Forjadas — Projetos em Destaque
+## Projetos
 
 <table>
   <tr>
@@ -67,7 +61,7 @@ em busca de **estágio / primeira vaga** pra apontar essas armas pra problemas r
       <img src="https://img.shields.io/badge/Funcional-C5A028?style=flat-square" alt="Funcional"/>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Italo-Fernando/socketzinho">socketzinho</a> 🟢</h3>
+      <h3><a href="https://github.com/Italo-Fernando/socketzinho">socketzinho</a></h3>
       <p>Chat anônimo com cara de terminal e comunicação full-duplex via WebSocket. Diário de estudo das formas de comunicação cliente↔servidor — com <a href="https://socketzinho.onrender.com/duplex">demo ao vivo</a>.</p>
       <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=C5A028" alt="Python"/>
       <img src="https://img.shields.io/badge/WebSocket-0d1117?style=flat-square&logo=socketdotio&logoColor=C5A028" alt="WebSocket"/>
@@ -97,7 +91,7 @@ em busca de **estágio / primeira vaga** pra apontar essas armas pra problemas r
 ---
 
 <!-- ===================== STATS ===================== -->
-## 📊 Github Stats
+## Github Stats
 
 <div align="center">
 
