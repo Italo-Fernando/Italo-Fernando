@@ -9,21 +9,13 @@
 
 <img src="./assets/header.svg" width="100%" alt="Italo Fernando — Unlimited Blade Works"/>
 
-<!-- Subtítulo minimalista -->
-<sub>Back-end · Dados · UFRPE — em busca da primeira oportunidade</sub>
-
 <br/>
 
 <!-- ===================== SOCIAL ===================== -->
-<a href="https://github.com/Italo-Fernando">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=C5A028" alt="GitHub"/>
-</a>
 <!-- TODO Italo: troque a URL abaixo pelo seu LinkedIn real -->
 <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=Italo-Fernando&label=Mestres%20convocados&color=C5A028&style=for-the-badge" alt="profile views"/>
-
 </div>
 
 ---
@@ -42,21 +34,17 @@ em busca de **estágio / primeira vaga** pra apontar essas armas pra problemas r
 
 > *"Se você vai forjar uma lâmina, forje-a sem arrependimentos."* — Saber
 
-**Linguagens**
-
-<img src="https://skillicons.dev/icons?i=py,c,cpp,java&theme=dark" alt="Linguagens" />
-
 **Back-end**
 
-<img src="https://skillicons.dev/icons?i=spring,fastapi&theme=dark" alt="Back-end" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,spring,supabase,mysql,cpp,dart&theme=dark" alt="Back-end" />
 
-**Dados**
+**Front-end**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Dados" />
+<img src="https://skillicons.dev/icons?i=js,react,flutter&theme=dark" alt="Front-end" />
 
-**DevOps & Ferramentas**
+**DevOps**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark" alt="DevOps & Ferramentas" />
+<img src="https://skillicons.dev/icons?i=linux,docker,github&theme=dark" alt="DevOps" />
 
 ---
 
