@@ -9,10 +9,8 @@
 
 <img src="./assets/header.svg" width="100%" alt="Italo Fernando — Unlimited Blade Works"/>
 
-<!-- Typing animation com o cântico do Archer adaptado pra dev -->
-<a href="https://github.com/Italo-Fernando">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=22&duration=3500&pause=900&color=C5A028&center=true&vCenter=true&width=620&height=60&lines=I+am+the+bone+of+my+code;Steel+is+my+syntax%2C+fire+is+my+logic;Unlimited+Blade+Works;Dev+em+forma%C3%A7%C3%A3o+%7C+Back-end+%26+Dados" alt="typing" />
-</a>
+<!-- Subtítulo minimalista -->
+<sub>Back-end · Dados · UFRPE — em busca da primeira oportunidade</sub>
 
 <br/>
 
@@ -31,21 +29,7 @@
 ---
 
 <!-- ===================== SOBRE ===================== -->
-## ⚔️ Sobre o Mestre
-
-```python
-class ItaloFernando:
-    def __init__(self):
-        self.role        = "Dev em formação"
-        self.focus       = ["Back-end", "Dados"]
-        self.university  = "UFRPE — Universidade Federal Rural de PE"
-        self.command_seal = "buscando minha primeira oportunidade na área"
-
-    def chant(self) -> str:
-        return "Have created over a thousand commits — Unlimited Blade Works"
-```
-
-> *"Não há arrependimentos. Se há... então não merece ser chamado de **Excalibur**."* — Saber
+## About
 
 Sou estudante de TI na **UFRPE**, me especializando em **back-end e dados**. Cada
 projeto aqui é uma lâmina forjada — um estudo que virou código de verdade. Estou
@@ -54,7 +38,7 @@ em busca de **estágio / primeira vaga** pra apontar essas armas pra problemas r
 ---
 
 <!-- ===================== SKILLS ===================== -->
-## 🗡️ Arsenal — Noble Phantasms
+## Skills
 
 <div align="center">
 
