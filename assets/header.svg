@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200">
+  <!-- ============================================================
+       Header: "Unlimited Blade Works" — campo de lâminas
+       Paleta: dourado (Saber) #C5A028 / vermelho (Archer) #8B0000
+       Feito à mão (sem imagens pesadas). ~4KB.
+       ============================================================ -->
+  <defs>
+    <clipPath id="frame">
+      <rect width="900" height="200"/>
+    </clipPath>
+
+    <!-- Brilho dourado atrás do nome -->
+    <radialGradient id="glow" cx="50%" cy="42%" r="55%">
+      <stop offset="0%"  stop-color="#C5A028" stop-opacity="0.28"/>
+      <stop offset="55%" stop-color="#8B0000" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Chão em brasa -->
+    <linearGradient id="ground" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"  stop-color="#8B0000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#8B0000" stop-opacity="0.22"/>
+    </linearGradient>
+
+    <!-- Lâmina (ponta pra cima, na origem) -->
+    <g id="sword">
+      <path d="M0,0 L3,66 L0,78 L-3,66 Z"/>
+      <rect x="-13" y="64" width="26" height="5" rx="2.5"/>
+      <rect x="-2.5" y="69" width="5" height="20" rx="2"/>
+      <circle cx="0" cy="92" r="3.5"/>
+    </g>
+  </defs>
+
+  <style>
+    .field-back { animation: sway 14s ease-in-out infinite; }
+    .field-front { animation: sway 9s ease-in-out infinite reverse; }
+    @keyframes sway {
+      0%,100% { transform: translateX(-7px); }
+      50%     { transform: translateX(7px); }
+    }
+    .ember { animation: rise 6s linear infinite; }
+    @keyframes rise {
+      0%   { transform: translateY(0); opacity: 0; }
+      15%  { opacity: 0.9; }
+      100% { transform: translateY(-150px); opacity: 0; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .field-back, .field-front, .ember { animation: none; }
+    }
+  </style>
+
+  <rect width="900" height="200" fill="#0d1117"/>
+  <rect width="900" height="200" fill="url(#glow)"/>
+
+  <g clip-path="url(#frame)">
+
+    <!-- Campo de lâminas — camada de trás (longe, escura, pequena) -->
+    <g class="field-back" fill="#22252F">
+      <use href="#sword" transform="translate(40,118)  scale(0.55) rotate(-4)"/>
+      <use href="#sword" transform="translate(120,124) scale(0.5)  rotate(3)"/>
+      <use href="#sword" transform="translate(205,116) scale(0.6)  rotate(-2)"/>
+      <use href="#sword" transform="translate(300,126) scale(0.48) rotate(5)"/>
+      <use href="#sword" transform="translate(600,126) scale(0.5)  rotate(-5)"/>
+      <use href="#sword" transform="translate(690,116) scale(0.6)  rotate(2)"/>
+      <use href="#sword" transform="translate(780,124) scale(0.5)  rotate(-3)"/>
+      <use href="#sword" transform="translate(860,120) scale(0.55) rotate(4)"/>
+    </g>
+
+    <!-- Linha do horizonte -->
+    <line x1="0" y1="150" x2="900" y2="150" stroke="#2A2D3E" stroke-width="1"/>
+    <rect y="150" width="900" height="50" fill="url(#ground)"/>
+
+    <!-- Campo de lâminas — camada da frente (perto, dourada, maior) -->
+    <g class="field-front" fill="#3A3320">
+      <use href="#sword" transform="translate(25,108)  scale(0.95) rotate(-6)"/>
+      <use href="#sword" transform="translate(95,116)  scale(0.8)  rotate(4)"/>
+      <use href="#sword" transform="translate(155,104) scale(1.0)  rotate(-3)"/>
+      <use href="#sword" transform="translate(735,104) scale(1.0)  rotate(3)"/>
+      <use href="#sword" transform="translate(805,114) scale(0.85) rotate(-4)"/>
+      <use href="#sword" transform="translate(875,108) scale(0.95) rotate(6)"/>
+    </g>
+
+    <!-- Lâminas em destaque dourado nas bordas -->
+    <g class="field-front" fill="none" stroke="#C5A028" stroke-width="1" opacity="0.5">
+      <use href="#sword" transform="translate(155,104) scale(1.0)  rotate(-3)"/>
+      <use href="#sword" transform="translate(735,104) scale(1.0)  rotate(3)"/>
+    </g>
+
+    <!-- Brasas subindo -->
+    <g fill="#C5A028">
+      <circle class="ember" cx="180" cy="170" r="1.6" style="animation-delay:0s"/>
+      <circle class="ember" cx="320" cy="180" r="1.2" style="animation-delay:2s"/>
+      <circle class="ember" cx="470" cy="175" r="1.8" style="animation-delay:3.5s"/>
+      <circle class="ember" cx="610" cy="182" r="1.3" style="animation-delay:1s"/>
+      <circle class="ember" cx="720" cy="172" r="1.6" style="animation-delay:4.2s"/>
+    </g>
+    <g fill="#8B0000">
+      <circle class="ember" cx="250" cy="178" r="1.5" style="animation-delay:2.8s"/>
+      <circle class="ember" cx="540" cy="176" r="1.4" style="animation-delay:0.6s"/>
+      <circle class="ember" cx="660" cy="184" r="1.6" style="animation-delay:5s"/>
+    </g>
+
+  </g>
+
+  <!-- Cântico / subtítulo -->
+  <text x="450" y="116"
+    font-family="'Cinzel', Georgia, serif"
+    font-size="14" font-weight="500" letter-spacing="0.22em"
+    fill="#9aa0ad" text-anchor="middle">I AM THE BONE OF MY CODE</text>
+
+  <!-- Handle -->
+  <text x="450" y="138"
+    font-family="system-ui, 'Segoe UI', Helvetica, Arial, sans-serif"
+    font-size="12" letter-spacing="0.05em"
+    fill="#C5A028" text-anchor="middle" opacity="0.85">@Italo-Fernando</text>
+</svg>

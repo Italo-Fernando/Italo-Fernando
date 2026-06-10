@@ -7,7 +7,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:8B0000,100:C5A028&height=200&section=header&text=Italo%20Fernando&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=I%20am%20the%20bone%20of%20my%20code&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header"/>
+<img src="./assets/header.svg" width="100%" alt="Italo Fernando — Unlimited Blade Works"/>
 
 <!-- Typing animation com o cântico do Archer adaptado pra dev -->
 <a href="https://github.com/Italo-Fernando">
@@ -181,6 +181,6 @@ com alta probabilidade de introduzir defeitos. Projeto de Reconhecimento de Padr
 >
 > *"Eu sou aquele que forja a própria lâmina.  Aço é meu corpo, e fogo é meu sangue."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C5A028,60:8B0000,100:0d1117&height=120&section=footer" width="100%" alt="footer"/>
+<img src="./assets/footer.svg" width="100%" alt="Steel is my body, and fire is my blood"/>
 
 </div>
