@@ -47,7 +47,7 @@ projeto aqui é  um estudo que virou código de verdade.
 ---
 
 <!-- ===================== PROJETOS ===================== -->
-## Projetos
+## Projetcs
 
 <table>
   <tr>
