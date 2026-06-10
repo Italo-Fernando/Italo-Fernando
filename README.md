@@ -13,8 +13,12 @@
 
 <!-- ===================== SOCIAL ===================== -->
 <!-- TODO Italo: troque a URL abaixo pelo seu LinkedIn real -->
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/%C3%ADtalo-fernando-1a917b282">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=C5A028" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:italofsantos2003@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=C5A028" alt="Email"/>
 </a>
 </div>
 
@@ -54,71 +58,50 @@ em busca de **estágio / primeira vaga** pra apontar essas armas pra problemas r
 <table>
   <tr>
     <td width="50%" valign="top">
-
-### ⚡ [Fast Pulse](https://github.com/Italo-Fernando/fast_pulse)
-API REST de gerenciamento de **usuários e tarefas**, construída com FastAPI,
-PostgreSQL e Docker Compose. Migrations com Alembic e estrutura pronta pra deploy.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-`✅ Funcional`
-
-  </td>
+      <h3><a href="https://github.com/Italo-Fernando/fast_pulse">Fast Pulse</a></h3>
+      <p>API REST de gerenciamento de usuários e tarefas, construída com FastAPI, PostgreSQL e Docker Compose. Migrations com Alembic e estrutura pronta pra deploy.</p>
+      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=C5A028" alt="Python"/>
+      <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=C5A028" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=C5A028" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=C5A028" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Funcional-C5A028?style=flat-square" alt="Funcional"/>
+    </td>
     <td width="50%" valign="top">
-
-### 💬 [socketzinho](https://github.com/Italo-Fernando/socketzinho)
-**Chat anônimo** com cara de terminal e comunicação **full-duplex via WebSocket**.
-Um diário de estudo das formas de comunicação cliente↔servidor — com [demo ao vivo](https://socketzinho.onrender.com/duplex).
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-`🟢 Ao vivo`
-
-  </td>
+      <h3><a href="https://github.com/Italo-Fernando/socketzinho">socketzinho</a> 🟢</h3>
+      <p>Chat anônimo com cara de terminal e comunicação full-duplex via WebSocket. Diário de estudo das formas de comunicação cliente↔servidor — com <a href="https://socketzinho.onrender.com/duplex">demo ao vivo</a>.</p>
+      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=C5A028" alt="Python"/>
+      <img src="https://img.shields.io/badge/WebSocket-0d1117?style=flat-square&logo=socketdotio&logoColor=C5A028" alt="WebSocket"/>
+      <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=C5A028" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Ao%20vivo-C5A028?style=flat-square" alt="Ao vivo"/>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-
-### 🗺️ [Coletor de Empresas](https://github.com/Italo-Fernando/business_fetcher)
-App **desktop** que pesquisa empresas no Google Maps por setor e localização,
-exporta pra Excel/CSV e integra com Google Sheets. Roda em Linux e Windows.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Scraping-43B02A?style=flat-square&logo=selenium&logoColor=white)
-
-`📦 Com releases`
-
-  </td>
+      <h3><a href="https://github.com/Italo-Fernando/business_fetcher">Coletor de Empresas</a></h3>
+      <p>App desktop que pesquisa empresas no Google Maps por setor e localização, exporta pra Excel/CSV e integra com Google Sheets. Roda em Linux e Windows.</p>
+      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=C5A028" alt="Python"/>
+      <img src="https://img.shields.io/badge/Selenium-0d1117?style=flat-square&logo=selenium&logoColor=C5A028" alt="Selenium"/>
+      <img src="https://img.shields.io/badge/Releases-C5A028?style=flat-square" alt="Releases"/>
+    </td>
     <td width="50%" valign="top">
-
-### 🔬 [CommitSentry](https://github.com/Italo-Fernando/CommitSentry)
-**Machine Learning** aplicado à identificação de *commits de risco* — alterações
-com alta probabilidade de introduzir defeitos. Projeto de Reconhecimento de Padrões.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-`🔬 Pesquisa`
-
-  </td>
+      <h3><a href="https://github.com/Italo-Fernando/CommitSentry">CommitSentry</a></h3>
+      <p>Machine Learning aplicado à identificação de commits de risco — alterações com alta probabilidade de introduzir defeitos. Projeto de Reconhecimento de Padrões.</p>
+      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=C5A028" alt="Python"/>
+      <img src="https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=C5A028" alt="scikit-learn"/>
+      <img src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=C5A028" alt="Pandas"/>
+      <img src="https://img.shields.io/badge/Pesquisa-C5A028?style=flat-square" alt="Pesquisa"/>
+    </td>
   </tr>
 </table>
 
 ---
 
 <!-- ===================== STATS ===================== -->
-## 📊 Registros do Graal
+## 📊 Github Stats
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Italo-Fernando&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=C5A028&icon_color=8B0000&text_color=ffffff" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italo-Fernando&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=C5A028&text_color=ffffff" alt="top langs"/>
 
 <br/>
 
