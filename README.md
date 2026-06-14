@@ -24,7 +24,7 @@
 <!-- ===================== SOBRE ===================== -->
 ## About
 
-Sou estudante de TI na **UFRPE**, me especializando em **back-end e dados**. Cada
+Sou estudante de **Sistemas de Informação** na **UFRPE**, me especializando em **back-end e dados**. Cada
 projeto aqui é  um estudo que virou código de verdade.
 
 ---
