@@ -71,11 +71,13 @@ projeto aqui é  um estudo que virou código de verdade.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Italo-Fernando/business_fetcher">Coletor de Empresas</a></h3>
-      <p>App desktop que pesquisa empresas no Google Maps por setor e localização, exporta pra Excel/CSV e integra com Google Sheets. Roda em Linux e Windows.</p>
+      <h3><a href="https://github.com/Italo-Fernando/poolnet">Poolnet</a></h3>
+      <p>API de descoberta e enriquecimento de leads B2B. Transforma uma busca (categoria + localização) em listas enriquecidas via processamento assíncrono com workers, filas e retry resiliente.</p>
       <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=C5A028" alt="Python"/>
-      <img src="https://img.shields.io/badge/Selenium-0d1117?style=flat-square&logo=selenium&logoColor=C5A028" alt="Selenium"/>
-      <img src="https://img.shields.io/badge/Releases-C5A028?style=flat-square" alt="Releases"/>
+      <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=C5A028" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/RabbitMQ-0d1117?style=flat-square&logo=rabbitmq&logoColor=C5A028" alt="RabbitMQ"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=C5A028" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=C5A028" alt="Docker"/>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Italo-Fernando/CommitSentry">CommitSentry</a></h3>
