@@ -1,27 +1,4 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║   README temático: Fate/Zero + Fate/stay night                ║
-     ║   Conceito: "Unlimited Blade Works" — forjar código = forjar  ║
-     ║   lâminas. Paleta: dourado (Saber) / azul / vermelho (Archer) ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
 
-<!-- ===================== HEADER ===================== -->
-<div align="center">
-
-<img src="./assets/header.svg" width="100%" alt="Italo Fernando — Unlimited Blade Works"/>
-
-<br/>
-
-<!-- ===================== SOCIAL ===================== -->
-<!-- TODO Italo: troque a URL abaixo pelo seu LinkedIn real -->
-<a href="https://www.linkedin.com/in/%C3%ADtalo-fernando-1a917b282">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=C5A028" alt="LinkedIn"/>
-</a>
-&nbsp;
-</div>
-
----
-
-<!-- ===================== SOBRE ===================== -->
 ## About
 
 Sou estudante de **Sistemas de Informação** na **UFRPE**, me especializando em **back-end e dados**. Cada
@@ -29,7 +6,6 @@ projeto aqui é  um estudo que virou código de verdade.
 
 ---
 
-<!-- ===================== SKILLS ===================== -->
 ## Skills
 
 **Back-end**
@@ -46,7 +22,6 @@ projeto aqui é  um estudo que virou código de verdade.
 
 ---
 
-<!-- ===================== PROJETOS ===================== -->
 ## Projetcs
 
 <table>
@@ -92,20 +67,9 @@ projeto aqui é  um estudo que virou código de verdade.
 
 ---
 
-<!-- ===================== STATS ===================== -->
-## Github Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Italo-Fernando&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=C5A028&icon_color=8B0000&text_color=ffffff" alt="stats"/>
-
-<br/>
-
----
-
 <!-- ===================== GIF / FOOTER ===================== -->
 <div align="center">
 
-<img src="./assets/footer.svg" width="100%" alt="Steel is my body, and fire is my blood"/>
+<img src="./assets/footer.svg" width="100%" alt="I am the bone of my code"/>
 
 </div>
